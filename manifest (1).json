@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Age calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Age",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Agecalculator.com",
+  "description": "An app to calculate your exact age"
+}
